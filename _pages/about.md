@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 This site is an semi-complete archive of essays and papers I've written.
 
-My interests lie in 1) computer security, primarily in the fields of privacy, secure protocols, anonymity, and cryptography; 2) economics, essentially in laissez-faire, monetary economics, and history; and 3) complex systems, decision theory, rationality, and complexity science in particular.
+My areas of interest are 1) computer security, primarily in the fields of privacy, secure protocols, anonymity, and cryptography; 2) economics, essentially in laissez-faire, monetary economics, and history; and 3) complex systems, decision theory, rationality, and complexity science in particular.
 
 My areas of interest are computer security (secure protocols), decision theory, and monetary economics.
 
