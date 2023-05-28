@@ -21,9 +21,9 @@ social: true  # includes social icons at the bottom of the page
 
 This site is a semi-complete archive of essays and papers I've written, primarily as an independent scholar.
 
-My areas of interest are 1) computer security, primarily in the fields of privacy, secure protocols, anonymity, and cryptography; 2) economics, essentially in laissez-faire, monetary economics, and history; and 3) complex systems, decision theory, rationality, and complexity science in particular.
+My areas of interest are: computer security, primarily in the fields of secure protocols and cryptography; complex systems, essentially in decision theory, rationality, and complexity; and monetary economics.
 
-My areas of interest are primarily three. Computer security (secure protocols, cryptography), complex systems (decision theory, rationality, complexity), and monetary economics.
+My fields of interest are primarily three. Computer security (secure protocols, cryptography), complex systems (decision theory, rationality, complexity), and monetary economics.
 
 Literary fluency in Italian, Spanish, English, and Catalan; reading and speaking fluency also in Portuguese and French.
 
