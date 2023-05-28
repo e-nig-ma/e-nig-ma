@@ -27,6 +27,8 @@ My fields of interest are primarily three. Computer security (secure protocols, 
 
 Literary fluency in Italian, Spanish, English, and Catalan; reading and speaking fluency also in Portuguese and French.
 
+Drop out --which is most likely temporary-- of BSc in Computer Science and BSc in Economics.
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
