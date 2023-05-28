@@ -19,9 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-This site is an archive of essays and papers written by Vicent Sus.
+This site is an semi-complete archive of essays and papers I've written.
 
-His interests lie in _(1) computer security_, primarily in the fields of privacy, anonymity, and cryptography; _(2) economics_, essentially in laissez-faire, monetary economics, and history; and _(3) complex systems_, decision theory and complexity science in particular.
+My interests lie in 1) computer security, primarily in the fields of privacy, secure protocols, anonymity, and cryptography; 2) economics, essentially in laissez-faire, monetary economics, and history; and 3) complex systems, decision theory, rationality, and complexity science in particular.
 
 My areas of interest are computer security (secure protocols), decision theory, and monetary economics.
 
