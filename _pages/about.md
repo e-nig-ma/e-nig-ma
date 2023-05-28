@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-This site is a semi-complete archive of essays and papers I've written, primarily as an independent scholar.
+This site is a semi-complete archive of essays and papers I've written as an independent scholar.
 
 My areas of interest are: computer security, primarily in the fields of secure protocols and cryptography; complex systems, essentially in decision theory, rationality, and complexity; and monetary economics.
 
