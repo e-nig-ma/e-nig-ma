@@ -37,8 +37,7 @@ Temporary drop out of a bachelor's degree in computer science and a bachelor's d
 
 **Philosophy, Rationality, Decision Theory**
 
-| Content | Example |
-| --- | ------ |
+| -- | ------ |
 | ambrosia | gala |
 | ambrosia | gala |
 | ambrosia | gala |
