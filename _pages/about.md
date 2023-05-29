@@ -27,8 +27,6 @@ Areas and fields of interest: information security (secure protocols, cryptograp
 
 Literary fluency in Italian, Spanish, English, and Catalan; reading and speaking fluency also in Portuguese and French.
 
-Temporary drop out of a bachelor's degree in computer science and a bachelor's degree in economics.
-
 <br>
 ### **Vicent Sus' Essays and Papers**
 <br>
