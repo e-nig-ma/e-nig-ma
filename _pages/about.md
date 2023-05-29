@@ -35,7 +35,8 @@ Literary fluency in Italian, Spanish, English, and Catalan; reading and speaking
 
 Temporary drop out of a bachelor's degree in computer science and a bachelor's degree in economics.
 
-Philosophy, Rationality, Decision Theory
-| ambrosia | gala | red delicious |
-| ambrosia | gala | red delicious |
-| ambrosia | gala | red delicious |
+## Philosophy, Rationality, Decision Theory
+| --- | ------ |
+| ambrosia | gala |
+| ambrosia | gala |
+| ambrosia | gala |
