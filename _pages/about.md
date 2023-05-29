@@ -37,6 +37,12 @@ Temporary drop out of a bachelor's degree in computer science and a bachelor's d
 
 <br>
 
+**Philosophy, Rationality**
+
+| [The Good Samaritan](#) | Analyzing and defining a behaviour |
+
+<br>
+
 **Financial Cryptography, Digital Assets**
 
 | [Proof-of-Stake Assets are Securities](#) | Why PoS native assets are financial securities |
