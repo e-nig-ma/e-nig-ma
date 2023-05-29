@@ -34,3 +34,8 @@ Areas and fields of interest: computer security (secure protocols, cryptography)
 Literary fluency in Italian, Spanish, English, and Catalan; reading and speaking fluency also in Portuguese and French.
 
 Temporary drop out of a bachelor's degree in computer science and a bachelor's degree in economics.
+
+Philosophy, Rationality, Decision Theory
+| ambrosia | gala | red delicious |
+| ambrosia | gala | red delicious |
+| ambrosia | gala | red delicious |
