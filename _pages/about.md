@@ -41,3 +41,4 @@ Temporary drop out of a bachelor's degree in computer science and a bachelor's d
 | [Proof-of-Stake Assets are Securities](#) | Why PoS native assets are financial securities |
 | [Proof-of-Stake Is a Defective Mechanism](#) | How PoS is a plutocratic, oligopolistic, and permissioned consensus mechanism |
 
+____
