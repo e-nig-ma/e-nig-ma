@@ -38,6 +38,7 @@ Temporary drop out of a bachelor's degree in computer science and a bachelor's d
 ### **Vicent Sus' Essays and Papers**
 
 **Philosophy, Rationality**
+
 [The Good Samaritan](#)  
 Analyzing and defining a behaviour
 
