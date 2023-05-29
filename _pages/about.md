@@ -27,6 +27,9 @@ social: true  # includes social icons at the bottom of the page
 [The Good Samaritan](#)  
 Defining a behaviour in the intersection of .
 
+[Scholars and Fighters](#)  
+Interdisciplinary field.
+
 <br>
 
 **Financial Cryptography and Digital Assets**
