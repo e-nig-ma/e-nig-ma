@@ -36,26 +36,21 @@ Literary fluency in Italian, Spanish, English, and Catalan; reading and speaking
 Temporary drop out of a bachelor's degree in computer science and a bachelor's degree in economics.
 
 ### **Vicent Sus' Essays and Papers**
-
+<br>
 **Philosophy, Rationality**
 
 [The Good Samaritan](#)  
-Analyzing and defining a behaviour
-
-
-| [The Good Samaritan](#)<br>Analyzing and defining a behaviour |
+Defining a behaviour in the intersection of .
 
 <br>
 
 **Financial Cryptography and Digital Assets**
 
 [Proof-of-Stake Assets are Securities](#)  
-Why PoS native assets are financial securities
+Why PoS native assets are by virtue of their design financial securities.
 
 [Proof-of-Stake Is a Defective Mechanism](#)  
-How PoS is a plutocratic, oligopolistic, and permissioned consensus mechanism
-
-| [The Good Samaritan](#)<br>Analyzing and defining a behaviour |
+How PoS is a plutocratic, oligopolistic, and permissioned consensus mechanism.
 
 
 <br>
