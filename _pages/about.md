@@ -54,4 +54,7 @@ Why PoS native assets are financial securities
 [Proof-of-Stake Is a Defective Mechanism](#)  
 How PoS is a plutocratic, oligopolistic, and permissioned consensus mechanism
 
+| [The Good Samaritan](#)<br>Analyzing and defining a behaviour |
+
+
 <br>
