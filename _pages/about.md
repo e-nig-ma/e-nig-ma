@@ -43,11 +43,7 @@ Temporary drop out of a bachelor's degree in computer science and a bachelor's d
 
 | [The Good Samaritan](#) | Analyzing and defining a behaviour |
 
-<br>
-
-**Financial Cryptography, Digital Assets**
+**Financial Cryptography and Digital Assets**
 
 | [Proof-of-Stake Assets are Securities](#) | Why PoS native assets are financial securities |
 | [Proof-of-Stake Is a Defective Mechanism](#) | How PoS is a plutocratic, oligopolistic, and permissioned consensus mechanism |
-
-<br>
