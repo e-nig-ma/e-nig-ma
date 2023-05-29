@@ -35,7 +35,8 @@ Literary fluency in Italian, Spanish, English, and Catalan; reading and speaking
 
 Temporary drop out of a bachelor's degree in computer science and a bachelor's degree in economics.
 
-### **Philosophy, Rationality, Decision Theory**
+**Philosophy, Rationality, Decision Theory**
+
 | Content | Example |
 | --- | ------ |
 | ambrosia | gala |
