@@ -37,7 +37,7 @@ Temporary drop out of a bachelor's degree in computer science and a bachelor's d
 
 **Philosophy, Rationality, Decision Theory**
 
-| -- | ------ |
+| -- | ---- |
 | [Proof-of-Stake Is a Defective Mechanism](#) | On how PoS is a plutocratic, oligopolistic, and permissioned consensus mechanism |
 | ambrosia | gala |
 | ambrosia | gala |
