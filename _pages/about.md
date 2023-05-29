@@ -19,22 +19,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-This website serves as a partial collection of essays and publications, primarily centred around my key areas of interest --Information Security, Philosophy, and Economics.
+This website serves as a partial collection of essays and publications, primarily centred around my key areas of interest --information security, philosophy (and complex systems), and economics.
 
 The areas and subfields I'm particularly, yet not exclusively, interested in are: secure protocols and cryptography; decision theory, rationality, and governance; free-markets and monetary economics.
 
-My areas and fields of interest are primarily three:
-- Information security (secure protocols, cryptography)
-- Economics (free-markets, history, and monetary economics)
-- Philosophy and complex systems (decision theory, rationality, complexity, governance) 
-
-
-Areas and fields of interest: computer security (secure protocols, cryptography), complex systems (decision theory, rationality, complexity), and monetary economics.
+Areas and fields of interest: information security (secure protocols, cryptography), economics (free-markets, history, monetary economics), philosophy and complex systems (decision theory, rationality, complexity, political theory, governance).
 
 Literary fluency in Italian, Spanish, English, and Catalan; reading and speaking fluency also in Portuguese and French.
 
 Temporary drop out of a bachelor's degree in computer science and a bachelor's degree in economics.
 
+<br>
 ### **Vicent Sus' Essays and Papers**
 <br>
 **Philosophy, Rationality**
