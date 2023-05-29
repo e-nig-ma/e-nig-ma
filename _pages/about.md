@@ -19,9 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-This website serves as a partial collection of essays and publications, primarily centred around my key areas of interest --information security, philosophy (and complex systems), and economics.
+This website serves as a partial collection of essays and publications.
 
-The areas and subfields I'm particularly, yet not exclusively, interested in are: secure protocols and cryptography; decision theory, rationality, and governance; free-markets and monetary economics.
+The areas and fields I'm primarily, yet not exclusively, interested in are: information security (secure protocols, cryptography), economics (free-markets, history, monetary economics), philosophy and complex systems (decision theory, rationality, complexity, political theory, governance).
 
 Areas and fields of interest: information security (secure protocols, cryptography), economics (free-markets, history, monetary economics), philosophy and complex systems (decision theory, rationality, complexity, political theory, governance).
 
