@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Essays from an unorthodox, unconvential, and sometimes challenging, worldview.  
+subtitle: Essays from an unorthodox and unconvential worldview.  
 
 profile:
   align: right
