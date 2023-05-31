@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Essays from an unorthodox and unconvential worldview.  
+subtitle: Cogitations on information security, philosophy, and economics.  
 
 profile:
   align: right
