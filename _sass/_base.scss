@@ -38,7 +38,6 @@ a,
 table.table a {
   color: var(--global-theme-color);
   
-
   &:hover {
     color: var(--global-theme-color);
     text-decoration: underline;
@@ -418,7 +417,10 @@ footer.sticky-bottom {
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
   }
-  font-size: 2rem!important;
+}
+
+.title-name {
+  font-size: 2em;
 }
 
 .post-list {
