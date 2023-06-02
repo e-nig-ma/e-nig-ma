@@ -37,6 +37,7 @@ table {
 a,
 table.table a {
   color: var(--global-theme-color);
+  
 
   &:hover {
     color: var(--global-theme-color);
@@ -420,7 +421,7 @@ footer.sticky-bottom {
 }
 
 .post-title h1 {
-    font-size: 2rem;
+    font-size: 2rem!important;
 }
 
 .post-list {
