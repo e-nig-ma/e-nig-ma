@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Cogitations on information security, philosophy, and economics.  
+subtitle: Cogitations on information security and philosophy.  
 
 profile:
   align: right
