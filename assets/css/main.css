@@ -143,7 +143,7 @@ table.table a:hover:after :not(.nav-item.dropdown) {
   width: 100%;
 }
 
-figure,
+h2 figure,
 img {
   max-width: 90vw;
 }
@@ -189,6 +189,11 @@ blockquote {
 .citation,
 .citation-number {
   color: var(--global-theme-color);
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
 }
 
 .profile {
