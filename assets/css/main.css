@@ -223,7 +223,7 @@ h2 {
 .profile .address p {
   display: inline-block;
   margin: 0;
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 
 .profile.float-right {
