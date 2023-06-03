@@ -19,9 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-### **Vicent Sus' Essays and Papers**
-<br>
-**Philosophy, Rationality**
+## Philosophy, Rationality
 
 [The Good Samaritan](#)  
 Defining a behaviour in the intersection of .
@@ -31,7 +29,7 @@ Interdisciplinary field.
 
 <br>
 
-**Financial Cryptography and Digital Assets**
+## Financial Cryptography and Digital Assets
 
 [Proof-of-Stake Assets are Securities](#)  
 Why PoS native assets are by virtue of their design financial securities.
