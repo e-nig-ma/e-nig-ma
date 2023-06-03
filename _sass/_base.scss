@@ -48,6 +48,8 @@ table.table a {
   }
 }
 
+h2
+
 figure,
 img {
   max-width: 90vw;
@@ -106,6 +108,13 @@ blockquote {
 .citation,
 .citation-number {
   color: var(--global-theme-color);
+}
+
+// About
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
 }
 
 // Profile
