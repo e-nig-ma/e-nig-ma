@@ -35,7 +35,7 @@ Interdisciplinary field.
 Why PoS native assets are by virtue of their design financial securities.
 
 [Proof-of-Stake Is a Defective Mechanism](#)  
-How PoS is a plutocratic, oligopolistic, and permissioned consensus mechanism.
+How PoS only enables a plutocratic, oligopolistic, and permissioned blockchain.
 
 
 <br>
