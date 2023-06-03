@@ -203,6 +203,10 @@ h2 {
   font-weight: 600;
 }
 
+.about p {
+  color: #808080;
+}
+
 .profile {
   width: 100%;
 }
