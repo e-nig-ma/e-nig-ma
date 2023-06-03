@@ -53,8 +53,6 @@ table.table a {
   }
 }
 
-h2
-
 figure,
 img {
   max-width: 90vw;
@@ -120,7 +118,7 @@ blockquote {
 h2 {
   font-size: 1.4rem;
   margin-bottom: 1rem;
-  font-weight: bold;
+  font-weight: 600;
 }
 
 // Profile
@@ -436,6 +434,7 @@ footer.sticky-bottom {
 
 .title-name {
   font-size: 2rem;
+  font-weigh: 600;
 }
 
 .post-list {
