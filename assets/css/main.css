@@ -133,7 +133,6 @@ a,
 table.table a {
   color: var(--global-theme-color);
   text-decoration: underline;
-  text-underline-offset: 3px;
 }
 a:hover,
 table.table a:hover {
