@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Information security, financial cryptography, and philosophy.  
+subtitle: Information security, financial cryptography, philosophy.  
 
 profile:
   align: right
